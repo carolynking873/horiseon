@@ -46,6 +46,15 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* Hero Style Start */
+.hero {
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    height: 800px;
+    background-size: cover;
+    background-position: center;
+}
+/* Hero Style End */
+
 footer {
     padding: 30px;
     clear: both;
@@ -55,4 +64,8 @@ footer {
 
 footer h2 {
     font-size: 20px;
+}
+
+section {
+    padding: 60px;
 }
